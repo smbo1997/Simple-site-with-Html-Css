@@ -1,0 +1,31 @@
+
+#main
+{
+	width:768px;
+	margin:25px auto;
+}
+
+#menu  >ul> li>a
+{
+	width: 129px;
+}
+
+#menu  >ul> li:first-child>a
+{
+	width: 51px;
+}
+
+#menu >ul> li>ul 
+{
+	width: 139px;
+}
+
+#row ul li img 
+{
+	width: 132px;
+}
+
+.title h2 
+{
+	font-size: 2vw;
+}
